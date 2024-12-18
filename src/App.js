@@ -9,7 +9,7 @@ function App() {
         <p className="fade-in">
           Happy Birthday to the ultimate bug hunter! 🐛🎯 May your cake have no
           layers of issues, your candles burn without crashes, and your day be
-          100% bug-free (unlike your test cases)! 🎉🎂{" "}
+          100% bug-free (unlike your test cases)! 🎉🎂 😀😀😀😀😀😀😀
         </p>
         <div className="balloon-container">
           <div className="balloon red"></div>
