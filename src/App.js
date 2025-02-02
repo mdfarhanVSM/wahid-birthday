@@ -5,11 +5,12 @@ function App() {
   return (
     <div className="App">
       <div className="birthday-container">
-        <h1 className="pulsate">🎉 Happy Birthday, Channaveer! 🎂</h1>
-        <p className="fade-in">
-          Happy Birthday to the ultimate bug hunter! 🐛🎯 May your cake have no
-          layers of issues, your candles burn without crashes, and your day be
-          100% bug-free (unlike your test cases)! 🎉🎂 😀😀😀😀😀😀😀
+        <h1 className="pulsate">🎉 Happy Birthday, Wahid! bhae 🎂</h1>
+        <p className="fade-in">Happy Birthday, Wahid! 🎉 </p>
+        <p>
+          Wishing you a day full of joy and all the best things in life. So
+          proud of you, little bro! Enjoy your special day! Love you! 🎉🎂
+          😀😀😀😀😀😀😀
         </p>
         <div className="balloon-container">
           <div className="balloon red"></div>
